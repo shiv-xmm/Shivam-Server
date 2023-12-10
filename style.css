@@ -986,3 +986,9 @@ body {
 .list-items li:hover {
   background-color: #f1f1f1;
 }
+
+@media screen and (max-width: 768px) {
+ .content {
+    font-size: 14px;
+ }
+}
